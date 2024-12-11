@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/Harsh4579/User_Authentication_Frontend/static/css/main.2c5d2651.chunk.css",
+    "main.js": "/Harsh4579/User_Authentication_Frontend/static/js/main.a703da97.chunk.js",
+    "main.js.map": "/Harsh4579/User_Authentication_Frontend/static/js/main.a703da97.chunk.js.map",
+    "runtime-main.js": "/Harsh4579/User_Authentication_Frontend/static/js/runtime-main.58f01df8.js",
+    "runtime-main.js.map": "/Harsh4579/User_Authentication_Frontend/static/js/runtime-main.58f01df8.js.map",
+    "static/js/2.ee15d19e.chunk.js": "/Harsh4579/User_Authentication_Frontend/static/js/2.ee15d19e.chunk.js",
+    "static/js/2.ee15d19e.chunk.js.map": "/Harsh4579/User_Authentication_Frontend/static/js/2.ee15d19e.chunk.js.map",
+    "index.html": "/Harsh4579/User_Authentication_Frontend/index.html",
+    "precache-manifest.841af36b7bcc3e9ffa91f18de5ea25d2.js": "/Harsh4579/User_Authentication_Frontend/precache-manifest.841af36b7bcc3e9ffa91f18de5ea25d2.js",
+    "service-worker.js": "/Harsh4579/User_Authentication_Frontend/service-worker.js",
+    "static/css/main.2c5d2651.chunk.css.map": "/Harsh4579/User_Authentication_Frontend/static/css/main.2c5d2651.chunk.css.map"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.58f01df8.js",
+    "static/js/2.ee15d19e.chunk.js",
+    "static/css/main.2c5d2651.chunk.css",
+    "static/js/main.a703da97.chunk.js"
+  ]
+}
